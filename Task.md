@@ -1,6 +1,6 @@
 # iOS-Developer-Challenge
 
-'version 0.5'
+  version 0.5
 
 Welcome! We've been expecting you. Holmusk is a big data based high tech company specializing in healthcare in Singapore. 
 
