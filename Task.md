@@ -14,3 +14,8 @@ This is the Holmusk iOS developer challenge. The rules of the challenge are very
 * Your code should be commented
 * For this challenge you will be judged based on the elegance of your code, level of abstraction and technical skills presented * in the implementation. Your UI/UX design will not affect you negatively in this challenge. Having good UI/UX skills are ofcourse beneficial.
 * You are required to fork this repo and submit a pull request
+
+## The Challenge 
+
+You will need to build an app that essentially contains data sync. Your app should be able to retrieve data from a server save it to core data, simulate loss of internet, update the data and send a request for sync. This request should automatically be performed when the app reconnects to the internet.
+
