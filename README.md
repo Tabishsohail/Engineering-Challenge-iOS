@@ -24,7 +24,7 @@ This is the Holmusk iOS developer challenge. The rules of the challenge are very
 * Obtain data from at least 3 or more websites and present them in your app. How you present will be a direct reflection of your creativity and motivation so we encourage you to spend as much time on this part as possible. You are not limited to TableViews or CollectionViews, feel free to create your own representations. One of our favorites is the parallax based scrollview.
 * Your app will need to implement real time data syncing and caching 
 * You will need to implement autocomplete with a search view [With a maximum of 10 results so that the interface does not look cluttered] so that users are able to easily enter food items they have had. 
-* You will need to store all of your results into CoreData/Realm(http://realm.io)/FMDB/SQlite in the most efficient way possible. Please do Log the time taken for data storage and retrieval in the console. 
+* You will need to store all of your results into CoreData/Realm(http://realm.io) /FMDB/SQlite in the most efficient way possible. Please do Log the time taken for data storage and retrieval in the console. 
 * You will also need to allow users to enter custom foodtypes which should then be synced with your local dataStore.
 * 58% of your outcome depends on your User Experience and User Interfaces for this challenge and as such we would encourage you to make the best use of the CoreAnimation, QuartzCore and CoreGraphics libraries. Because we love people who have a passion for expanding their horizons, your background with these libraries do not matter so much provided you are able to demonstrate your learning ability! 
 * With that said we with you good luck and we look forward to receiving your submission!
