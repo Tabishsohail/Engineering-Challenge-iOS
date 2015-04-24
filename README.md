@@ -1,6 +1,6 @@
 # iOS-Developer-Challenge
 
-`version 0.8`
+`version 0.9`
 `challenge status: open`
 
 Welcome! We've been expecting you. Holmusk is a big data based high tech company specializing in healthcare in Singapore. 
@@ -12,7 +12,6 @@ If you're someone who bleeds code and aches to make a difference in the world, t
 This is the Holmusk iOS developer challenge. The rules of the challenge are very simple and are as follows
 
 * You are required to code in Swift
-* You may not use open source components (your code will be checked thoroughly)
 * You will be able to submit the challenge anytime you are ready provided the challenge is still open
 * Your code should be commented
 * For this challenge you will be judged based on the elegance of your code, level of abstraction and technical skills presented * in the implementation. 
