@@ -33,7 +33,7 @@ This is the Holmusk iOS developer challenge. The rules of the challenge are very
 
 ## Judging Criteria 
 * What you have produced will determine your final outcomes. 58% of your product, from our point of view, depends on your User Experience and User Interfaces for this challenge and as such we would encourage you to make the best use of the CoreAnimation, QuartzCore and CoreGraphics libraries. Because we love people who have a passion for expanding their horizons, your background with these libraries do not matter so much provided you are able to demonstrate your learning ability! 
-* 
+
 ### Bonus Points
 
 At Holmusk we do our best to go the extra mile and as such you would recieve brownie points if 
