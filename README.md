@@ -20,18 +20,23 @@ This is the Holmusk iOS developer challenge. The rules of the challenge are very
 
 ## The Challenge 
 
+### What You'll need to build
+You'll need to build an app that is able to retrieve health related information for different food types, persist it locally and display it to the user in a very interesting manner. 
+
+
+### Bits and Pieces to help you get there
 * Use Kimono's API builer (https://www.kimonolabs.com) [This is so that you can save time] to extract food related data from MyfitnessPal (https://www.myfitnesspal.com), FatSecrets (http://www.fatsecret.com.sg) or other food websites such as CalorieKing (http://www.calorieking.com). The data that you retrieve from each of these 3 sources might not be interoperable. Thus we expect you to distinguish in your view food from these sources. 
 * Obtain data from at least 3 or more websites and present them in your app. How you present will be a direct reflection of your creativity and motivation so we encourage you to spend as much time on this part as possible. You are not limited to TableViews or CollectionViews, feel free to create your own representations. One of our favorites is the parallax based scrollview.
 * You will need to implement autocomplete with a search view [With a maximum of 10 results so that the interface does not look cluttered] so that users are able to easily enter food items they have had. 
 * You will need to store all of your results into CoreData/Realm(http://realm.io) /FMDB/SQlite in the most efficient way possible. Please do Log the time taken for data storage and retrieval in the console. 
 * You will also need to allow users to enter custom foodtypes which should then be synced with your local dataStore (CoreData/Realm).
 
-* With that said we with you good luck and we look forward to receiving your submission!
+* With that said we wish you good luck and look forward to receiving your submission!
 
 
 
 ## Judging Criteria 
-* What you have produced will determine your final outcomes. 60% of your product, from our point of view, depends on your User Experience and User Interfaces for this challenge and as such we would encourage you to make the best use of the CoreAnimation, QuartzCore and CoreGraphics libraries. Because we love people who have a passion for expanding their horizons, your background with these libraries do not matter so much provided you are able to demonstrate your learning ability! 
+* What you have produced will determine your final outcomes. 60% of your product, from our point of view, depends on your User Experience and User Interfaces for this challenge thus we would encourage you to make the best use of the CoreAnimation, QuartzCore and CoreGraphics libraries. Because we love people who have a passion for expanding their horizons, your background with these libraries do not matter so much provided you are able to demonstrate your learning ability! 
 
 ### Bonus Points
 
