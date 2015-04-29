@@ -14,6 +14,7 @@ This is the Holmusk iOS developer challenge. The rules of the challenge are very
 * You are required to code in Swift
 * You will be able to submit the challenge anytime you are ready provided the challenge is still open
 * Your code should be commented
+* You should implement Autolayout and Size Classes to support all iPhone sizes. Only one orientation is enough - we're not too fiesty on that
 * You are required to fork this repo and submit a pull request
 * If you wish to not make public, your submission, please complete the code in your local repository and email a patch file to careers@holmusk.com
 * Please note that you will also be judged on the elegance of your code, level of abstraction and technical skills presented in the implementation. For more details, refer to the Judging Criteria section below.
