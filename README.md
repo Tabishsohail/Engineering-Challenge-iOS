@@ -1,6 +1,6 @@
 # iOS-Developer-Challenge
 
-`version 1.1`
+`version 1.2`
 `challenge status: open`
 
 Welcome! We've been expecting you. Holmusk is a big data based high tech company specializing in healthcare in Singapore. 
@@ -31,7 +31,6 @@ You'll need to build an app that is able to retrieve nutrition information for d
 * You will need to implement autocomplete with a search view [With a maximum of 10 results so that the interface does not look cluttered] so that users are able to easily enter food items they have had. 
 * You will need to store all of your results into CoreData/Realm(http://realm.io) /FMDB/SQlite in the most efficient way possible. Please do log the time taken for data storage and retrieval in the console. 
 * You will also need to allow users to enter new food items which should then be synced with your local dataStore (CoreData/Realm).
-* 
 * With that said we wish you good luck and look forward to receiving your submission!
 
 
